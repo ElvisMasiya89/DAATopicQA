@@ -1,2 +1,2 @@
 # DAATopicQA
-Data  Structures And Algorithms Topics - Question and Answers
+Data  Structures And Algorithms Topics - Questions and Answers
